@@ -8,3 +8,8 @@ before running flask file u should change host address to current ip address of 
 go through each screen cahnge address to current ip..
 
 Still its under developing support us throughout...
+
+STEP1:RUN flaskscript.py
+STEP2:CONNECT the data cable to mobile phone.
+STEP3:RUN main.dart file.
+---------THATS ONLY----------
