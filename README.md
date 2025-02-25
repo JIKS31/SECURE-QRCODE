@@ -1,5 +1,5 @@
 # Malicious_qrcode_Scanner-and-Generator-With-ML.
-hello this a flutter app that scan ang generate qr code and check for malicious for scanned qr code using ml,various security measures...
+hello this a flutter app that scan ang generate qr code and check for malicious for scanned qr code using ml(KNN),various security measures...
 Tips to run
 open folder qr_scan_1
 1.run flask_script.py.
