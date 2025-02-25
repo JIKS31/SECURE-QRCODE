@@ -1,15 +1,68 @@
-# Malicious_qrcode_Scanner-and-Generator-With-ML.
-hello this a flutter app that scan ang generate qr code and check for malicious for scanned qr code using ml(KNN),various security measures...
-Tips to run
-open folder qr_scan_1
-1.run flask_script.py.
-2.Then run the main.dart file.
-before running flask file u should change host address to current ip address of the device ,and some screen consist of t.
-go through each screen cahnge address to current ip..
+🛡️ Malicious QR Code Scanner and Generator with ML 🔍
 
-Still its under developing support us throughout...
+🚀 Overview
 
-# STEP1:RUN flaskscript.py
-# STEP2:CONNECT the data cable to mobile phone.
-# STEP3:RUN main.dart file.
----------THATS ONLY----------
+This Flutter application allows users to scan and generate QR codes while implementing machine learning (KNN) to detect malicious QR codes. The app also includes various security measures to enhance QR code safety.
+
+🎯 Features
+
+📸 Scan QR Codes: Read QR codes and check for potential threats using ML.
+
+🖨️ Generate QR Codes: Create QR codes securely.
+
+🤖 Machine Learning (KNN): Detect malicious QR codes.
+
+🔒 Security Measures: Ensuring safe and reliable QR code usage.
+
+🛠️ Technologies Used
+
+🐍 Python (Flask, BeautifulSoup, jsonify)
+
+🎯 Dart & Flutter (Mobile app development)
+
+📡 QR Code (Generation and scanning)
+
+🤖 Machine Learning (K-Nearest Neighbors - KNN)
+
+📥 Installation & Setup
+
+🏁 Step 1: Run Flask Server
+
+Open the qr_scan_1 folder.
+
+Update the host address in flask_script.py to match your current device IP.
+
+Run the Flask script:
+
+python flask_script.py
+
+🔌 Step 2: Connect Mobile Device
+
+Connect your mobile phone to the computer via a USB data cable.
+
+📲 Step 3: Run Flutter App
+
+Open the project in a Flutter-supported IDE (Android Studio, VS Code, etc.).
+
+Locate main.dart and update any required IP addresses.
+
+Run the Flutter application:
+
+flutter run
+
+⚠️ Notes
+
+📝 Ensure that all IP addresses in the app screens are updated to match the current device IP.
+
+🚧 The project is still under development; we appreciate your support!
+
+🤝 Contribution
+
+Feel free to contribute by submitting issues or pull requests.
+
+📜 License
+
+This project is open-source. You are free to use and modify it under the specified license.
+
+🙏 Support us throughout the development process! 🚀
+
