@@ -12,7 +12,7 @@ This Flutter application allows users to scan and generate QR codes while implem
 ## 🛠️ Technologies Used
 - 🐍 **Python** (Flask, BeautifulSoup, jsonify)
 - 🎯 **Dart & Flutter** (Mobile app development)
-- 📡 **QR Code** (Generation and scanning)
+- 📡 **QR Code** (Generation and scanning,zixlibrary)
 - 🤖 **Machine Learning** (K-Nearest Neighbors - KNN)
 
 ## 📥 Installation & Setup
