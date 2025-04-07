@@ -1,4 +1,4 @@
-# 🛡️ Malicious QR Code Scanner and Generator with ML 🔍
+# 🛡️ SECURE-QRCODE 🔍
 
 ## 🚀 Overview
 This Flutter application allows users to scan and generate QR codes while implementing machine learning (KNN) to detect malicious QR codes. The app also includes various security measures to enhance QR code safety.
